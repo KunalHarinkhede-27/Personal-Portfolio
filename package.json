@@ -1,0 +1,17 @@
+{
+  "name": "portfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"npm start --prefix portfolio-frontend\" \"npm start --prefix portfolio-backend\"",
+    "frontend": "npm start --prefix portfolio-frontend",
+    "backend": "npm start --prefix portfolio-backend"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^9.1.0"
+  }
+}
