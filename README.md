@@ -35,13 +35,13 @@ Nodemailer (for contact form emails)
 git clone https://github.com/KunalHarinkhede-27/Personal-Portfolio.git
 cd portfolio-frontend
 * Setup Frontend
-cd frontend
-npm install
-npm start
+- cd frontend
+- npm install
+- npm start
 
 * Setup Backend
-cd portfolio-backend
-npm install for node modules and install all packages listed in dependencies in package.json
-node server.js
+- cd portfolio-backend
+- npm install for node modules and install all packages listed in dependencies in package.json, 
+- node server.js
 * Contact
 Feel free to reach out via the Contact Me at email kunalharinkhede277@gmail.com
