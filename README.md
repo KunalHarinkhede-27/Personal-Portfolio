@@ -23,6 +23,11 @@ Nodemailer (for contact form emails)
 - Contact form with email functionality (backend)
 - SEO-optimized with meta tags
 
+* Screenshots
+  ![Screenshot 2025-01-31 153200](https://github.com/user-attachments/assets/a48a290f-d3ae-4009-9a10-c2deb3eddc2e)
+
+  ![Screenshot 2025-01-31 153218](https://github.com/user-attachments/assets/44dda7b4-afb6-4b39-b840-0cc04daabdbe)
+  
 - Getting Started
 * Clone the Repository
 git clone https://github.com/KunalHarinkhede-27/Personal-Portfolio.git
