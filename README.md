@@ -27,6 +27,8 @@ Nodemailer (for contact form emails)
   ![Screenshot 2025-01-31 153200](https://github.com/user-attachments/assets/a48a290f-d3ae-4009-9a10-c2deb3eddc2e)
 
   ![Screenshot 2025-01-31 153218](https://github.com/user-attachments/assets/44dda7b4-afb6-4b39-b840-0cc04daabdbe)
+
+- Along with this, there are more section like projects and contact are aslo there.
   
 - Getting Started
 * Clone the Repository
