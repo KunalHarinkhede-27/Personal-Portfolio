@@ -23,48 +23,26 @@ Nodemailer (for contact form emails)
 ✅ Contact form with email functionality (backend)
 ✅ SEO-optimized with meta tags
 
-📂 Folder Structure
-bash
-Copy
-Edit
-/portfolio-frontend  # Frontend - React
-  ├── src
-  │   ├── components
-  │   ├── pages
-  │   ├── assets
-  │   ├── App.js
-  │   ├── index.js
-  │   └── ...other files
-  └── package.json
-
-/portfolio-backend  # Backend - Node.js, Express.js
-  ├── models
-  ├── routes
-  ├── controllers
-  ├── server.js
-  ├── .env
-  ├── package.json
-  └── ...other files
 🚀 Getting Started
 1️⃣ Clone the Repository
 sh
 Copy
 Edit
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/KunalHarinkhede-27/Personal-Portfolio.git
 cd portfolio
 2️⃣ Setup Frontend
 sh
 Copy
 Edit
-cd portfolio-frontend
+cd frontend
 npm install
 npm start
 3️⃣ Setup Backend
 sh
 Copy
 Edit
-cd ../portfolio-backend
+cd backend
 npm install
 node server.js
 📧 Contact
-📬 Feel free to reach out via the Contact Me section in the portfolio!
+📬 Feel free to reach out via the Contact Me at email kunalharinkhede277@gmail.com
